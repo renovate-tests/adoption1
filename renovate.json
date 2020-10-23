@@ -1,0 +1,8 @@
+{
+  "prBodyDefinitions": {
+    "Adoption": "![adoption](https://badges-beta.renovateapi.com/packages/npm/{{{depName}}}/{{{toVersion}}}/adoption/slim)"
+  },
+  "npm": {
+    "prBodyColumns": ["Package", "Update", "Type", "Change", "Adoption"]
+  }
+}
